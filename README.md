@@ -19,12 +19,14 @@ The key goals of this project include:
 
 The dataset consists of structured valuation-related records, covering various industries, investor types, and geographical locations. Key fields include:
 
-- **Company**: The name of the company.
-- **Valuation ($B)**: The estimated value of the company in billions.
-- **Date Joined**: Company Joining Date.
-- **City & Country**: Geographic information about the startup ecosystem.
-- **Industry**: The industry in which the company operates.
-- **Investors**: investors involved.
+- **Company**: Company Name.
+- **Valuation ($B)**: Company Value in Billions.
+- **Date Joined**: Investors joined data in company.
+- **Country**: Country where Company situated in.
+- **CityÂ**: City where Company situated in.
+- **Industry**: Industry of Company.
+- **Gender**: The gender of the athlete.
+- **Investors**: Investors Data.
 
 ## 🛠️ Tech Stack
 
